@@ -55,13 +55,16 @@
 
 ---
 
-### 📈 GitHub Stats
-
+<!-- GitHub Streak Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bupechiyana&show_icons=true&theme=gruvbox" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bupechiyana&layout=compact&theme=gruvbox" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=bupechiyana15&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 </p>
+
+<!-- GitHub Profile Views -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=bupechiyana15&style=flat-square&color=blue" alt="Profile views" />
+</p>
+
 
 ---
 
